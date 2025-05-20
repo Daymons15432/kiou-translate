@@ -1,4 +1,4 @@
-# ktranslate 🌍✨
+# KTranslate 🌍✨
 
 A simple and lightweight text translator library for Node.js — fast, intuitive, and easy to use! 🧠💬
 
