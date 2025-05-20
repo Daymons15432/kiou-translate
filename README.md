@@ -1,6 +1,6 @@
 # ktranslate 🌍✨
 
-A simple and lightweight text translator library for Node.js — fast, intuitive, and easy to use! 🧠💬
+A simple and lightweight Node.js library for translating text using Gemini AI — fast, intuitive, and easy to use! 🧠💬
 
 ---
 
