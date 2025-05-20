@@ -1,4 +1,4 @@
-# KTranslate 🌍✨
+# ktranslate 🌍✨
 
 A simple and lightweight text translator library for Node.js — fast, intuitive, and easy to use! 🧠💬
 
@@ -61,4 +61,11 @@ const translator = new KTranslate({
   const translated = await translator.translate(text);
   console.log(translated); // "Halo dunia!"
 })();
+```
+
+You can also use to check the ISO language
+
+```javascript
+const lang = await translator.detectLanguage('Bonjour le monde!');
+console.log(lang); // "fr"
 ```
