@@ -1,4 +1,4 @@
-# ktranslate 🌍✨
+# KTranslate 🌍✨
 
 A simple and lightweight Node.js library for translating text using Gemini AI — fast, intuitive, and easy to use! 🧠💬
 
