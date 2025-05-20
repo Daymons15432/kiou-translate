@@ -61,11 +61,7 @@ const translator = new KTranslate({
   const translated = await translator.translate(text);
   console.log(translated); // "Halo dunia!"
 })();
-```
 
-You can also use to check the ISO language
-
-```javascript
 const lang = await translator.detectLanguage('Bonjour le monde!');
 console.log(lang); // "fr"
 ```
