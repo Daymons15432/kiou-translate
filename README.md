@@ -21,13 +21,13 @@ A simple and lightweight Node.js library for translating text using Gemini AI, O
 ## 🚀 Installation
 
 ```sh
-npm install ktranslate
+npm install kiou-translate
 ```
 
 ## 🛠️ Usage
 
 ```javascript
-const KTranslate = require('ktranslate');
+const KTranslate = require('kiou-translate');
 
 const translator = new KTranslate({
   apiKey: 'YOUR_GEMINI_API_KEY',
@@ -94,7 +94,7 @@ Detects the language of the input text (returns ISO 639-1 code).
 ## 🧑‍💻 Example: Using OpenAI
 
 ```javascript
-const KTranslate = require('ktranslate');
+const KTranslate = require('kiou-translate');
 
 const translator = new KTranslate({
   apiKey: 'YOUR_OPENAI_API_KEY',
