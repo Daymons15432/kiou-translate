@@ -5,12 +5,16 @@ Copyright (c) Hakiou Derion
 This software is licensed, not sold. By using "kiou-translate", you agree to the following terms:
 
 1. **Grant of License**  
-   You are granted a non-exclusive, non-transferable, non-sublicensable license to use this software for personal or commercial purposes.
+   Licensor hereby grants you a non-exclusive, non-transferable, non-sublicensable, and revocable license to use the Software solely for personal or internal development purposes.
 
 2. **Restrictions**  
-   - You may not modify, reverse engineer, decompile, or disassemble the software.
-   - You may not redistribute, sublicense, or resell the software or any derivative works.
-   - You may not remove or alter any copyright notices.
+   You may not, under any circumstances:
+   - Modify, alter, reverse-engineer, decompile, or disassemble any part of the Software.
+   - Use the Software, in whole or in part, to create derivative works.
+   - Sell, resell, distribute, or commercialize the Software or any portion thereof.
+   - Represent the Software as your own work, or claim authorship.
+   - Remove, obscure, or alter any proprietary notices (including copyright and trademark notices).
+   - Use the Software in any way that violates any applicable laws or regulations.
 
 3. **Ownership**  
    The software is owned and copyrighted by Hakiou Derion.
@@ -20,7 +24,3 @@ This software is licensed, not sold. By using "kiou-translate", you agree to the
 
 5. **Termination**  
    This license is effective until terminated. Failure to comply with any term will result in automatic termination of your rights under this license.
-
-For questions, contact: https://github.com/Daymons15432/kiou-translate
-
----
